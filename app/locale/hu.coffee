@@ -89,7 +89,7 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     classroom_edition: "Tantermi változat:"
     learn_to_code: "Tanulj meg kódolni:"
     play_now: "Játssz Most"
-#    im_an_educator: "I'm an Educator"
+#    im_an_educator: "Oktató vagyok!"
     im_a_teacher: "Tanár vagyok"
     im_a_student: "Diák vagyok"
     learn_more: "Tudj meg többet"
@@ -133,7 +133,7 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     get_started_title: "Hozd létre a saját osztályodat"
     get_started_subtitle: "Hozd létre az osztályod, add hozzá a diákokat, és kövesd nyomon fejlődésüket az informatikában."
     request_demo: "Bemutató kérése"
-#    request_quote: "Request a Quote"
+#    request_quote: "Kérj ajánlatot"
     setup_a_class: "Osztály létrehozása"
     have_an_account: "Van már fiókod?" # {change}
     logged_in_as: "Jelenleg így vagy belépve"
@@ -149,13 +149,13 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     view_progress: "Fejlődés megtekintése"
     go_to_courses: "Ugrás a Kurzusaimhoz"
     want_coco: "Szeretnéd kipróbálni a CodeCombatot az iskoládban?"
-#    educator: "Educator"
-#    student: "Student"
+#    educator: "Oktató"
+#    student: "Hallgató"
 
   nav:
-#    educators: "Educators"
-#    follow_us: "Follow Us"
-#    general: "General"
+#    educators: "Oktatók"
+#    follow_us: "Kövess minket"
+#    general: "Általános"
     map: "Térkép"
     play: "Játék" # The top nav bar entry where players choose which levels to play
     community: "Közösség"
@@ -170,12 +170,12 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     legal: "Jogi információk"
     privacy: "Adatvédelmi megjegyzés"
     about: "Rólunk"
-#    impact: "Impact"
+#    impact: "Hatás"
     contact: "Kapcsolat"
     twitter_follow: "Követés"
     my_classrooms: "Tantermeim"
     my_courses: "Kurzusaim"
-#    my_teachers: "My Teachers"
+#    my_teachers: "Oktatóim"
     careers: "Karrier"
     facebook: "Facebook"
     twitter: "Twitter"
@@ -199,7 +199,7 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
   modal:
     close: "Bezár"
     okay: "Oké"
-#    cancel: "Cancel"
+#    cancel: "Mégsem"
 
   not_found:
     page_not_found: "Az oldal nem található"
@@ -213,8 +213,8 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     subscribe_as_diplomat: "Jelentkezz Diplomatának"
 
   play:
-#    title: "Play CodeCombat Levels - Learn Python, JavaScript, and HTML"
-#    meta_description: "Learn programming with a coding game for beginners. Learn Python or JavaScript as you solve mazes, make your own games, and level up. Challenge your friends in multiplayer arena levels!"
+#    title: "Játsz CodeCombattal: Tanulj Pythont, JavaScriptet és HTML-t"
+#    meta_description: "Tanulj programozni kezdő programozó játékkal. Tanulj Pythont vagy JavaScript-et ahogyan megoldód a feladványokat, készíts saját játékokat és lépj szintet. Hívd ki barátaidat többjátékos pályákon!!"
 #    level_title: "__level__ - Learn to Code in Python, JavaScript, HTML"
 #    video_title: "__video__ | Video Level"
 #    game_development_title: "__level__ | Game Development"
